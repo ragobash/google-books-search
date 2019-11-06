@@ -1,0 +1,29 @@
+{
+  "name": "google-books-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "gh-pages": "^2.1.1",
+    "mongoose": "^5.7.8",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-scripts": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragobash/google-books-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ragobash/google-books-search/issues"
+  },
+  "homepage": "https://github.com/ragobash/google-books-search#readme"
+}
